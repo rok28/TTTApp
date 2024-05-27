@@ -1,0 +1,1 @@
+Aqui se aloja la configuración para los secretos que utilizan algunas aplicaciones
